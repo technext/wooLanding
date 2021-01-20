@@ -31,5 +31,5 @@
     },
     "dest": ""
   },
-  "watch": ["assets/img", "assets/video", "vendors"]
+  "watch": ["assets/img", "assets/video", "assets/fonts", "vendors"]
 }
