@@ -43,21 +43,11 @@
 }
 
 
-// custom css for
-
-// .carousel-item::after{
-//   content: url('../img/gallery/t1.png');
-//   margin-left:-200px;
-//   // margin-bottom:-100px;
-//   // margin-top:-100px;
-//   // width: 216px;
-//   // height: 472px;
-
-// }
-
-// .carousel-item::before{
-//   content: url('../img/gallery/t2.png');
-//   margin-top:-200px;
-// }
+// custom css for testimonial
+.testimonial-card-shadow{ 
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
 
 
